@@ -2,9 +2,9 @@
 ## Overview
 An implementation of a MIPS processor using [Logisim](http://www.cburch.com/logisim/) to build the circuitry and Python to test the processor itself.
 
-![Screenshot](imgs/cpu1.png)
-![Screenshot](imgs/cpu2.png)
-![Screenshot](imgs/cpu3.png)
+![Screenshot](imgs/cpu1.PNG)
+![Screenshot](imgs/cpu2.PNG)
+![Screenshot](imgs/cpu3.PNG)
 
 The project implements the following parts:
 1. Regfile - for the necessary read/write ports and registers needed to store values
