@@ -1,0 +1,8 @@
+Testing files...
+	PASSED test: CPU starter test
+	PASSED test: and test
+	PASSED test: beq test
+	PASSED test: j-slt test
+	PASSED test: counter test
+	PASSED test: func test
+Passed 6/6 tests
