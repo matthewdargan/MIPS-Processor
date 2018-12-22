@@ -1,4 +1,4 @@
-# MIPS-Processor
+# MIPS Processor
 ## Overview
 An implementation of a MIPS processor using [Logisim](http://www.cburch.com/logisim/) to build the circuitry and Python to test the processor itself.
 
